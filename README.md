@@ -1,4 +1,4 @@
-# Kuroba (Clover)
+# Kuroba (Clover) https://vibing-onion.github.io/Kuroba/
 Kuroba is a word-guessing game, trying to simulate Wordle & Semantle.
 
 # Rules
